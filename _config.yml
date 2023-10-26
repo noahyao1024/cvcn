@@ -21,7 +21,7 @@ resume_contact_telephone:       ""
 resume_contact_address:         "北京市海淀区西三旗"
 
 resume_header_contact_info:     "北京市海淀区西三旗 • hi#noahyao.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>凭借超过8年的服务端设计和研发经验，我深入参与了社交平台、搜索引擎、用户和商业产品及VR行业的技术研发工作。作为一名80后的「老」程序员，我不仅对编程充满热情，同时享受「折腾」和面对各种「挑战」。</p>"
 
