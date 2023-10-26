@@ -1,0 +1,19 @@
+- company: 贝壳找房
+  position: 资深工程师
+  duration: 07, 2019 &mdash; Present
+  summary: 主导了如视（贝壳找房旗下三维重建/VR业务部门）关键业务系统、基础服务（包括账号系统、业务网关、WebSocket网关）以及开放平台的架构设计和系统开发工作。
+
+- company: 字节跳动
+  position: 资深工程师
+  duration: 04, 2018 &mdash; 07, 2019
+  summary: 主导了懂车帝（字节跳动旗下，专注汽车领域的平台）搜索系统的架构设计、开发与维护。
+
+- company: 百度
+  position: 高级PHP工程师
+  duration: 04, 2015  &mdash; 04, 2018
+  summary: 负责百度贴吧的商业化活动系统和原生广告系统，以及百度医生C端APP、百度医疗搜索和百度APP服务端的系统架构设计、开发与性能优化。
+
+- company: 百度
+  position: 🧑‍🎓 实习
+  duration: 09, 2014  &mdash; 04, 2015
+  summary: 参与了百度贴吧（百度核心社交平台）的PC端基础服务、大数据舆情监控以及官方吧增值业务的系统开发和性能优化工作。

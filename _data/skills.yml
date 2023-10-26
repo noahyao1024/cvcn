@@ -1,0 +1,14 @@
+- skill: 操作系统
+  description: Linux、MacOS、OpenWRT
+
+- skill: 工具集合
+  description: Vim、Git、Subversion、CTEX、Matlab
+
+- skill: 编程语言
+  description: Golang、PHP、Python、C/C++、Shell
+
+- skill: 存储
+  description: MySQL(DDBS)、Redis、Object Storage、Memcached、ElasticSearch、CockRoach(NDB)
+
+- skill: 队列
+  description: Kafka、NSQ、Storm
